@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /*.css
+Allow: /*.js
+
+Sitemap: https://bondstailors.com/sitemap.xml
+
+# Prevent caching of certain files
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
