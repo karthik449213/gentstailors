@@ -685,7 +685,7 @@ nav {
 
         @media (max-width: 768px) {
             .slide-content {
-                height: 400px;
+                height: 700px;
             }
 
             .carousel-overlay {
